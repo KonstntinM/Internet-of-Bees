@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    Index.vue
+    Apiarys.vue
   </div>
 </template>
 

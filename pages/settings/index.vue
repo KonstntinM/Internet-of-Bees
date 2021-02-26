@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    Index.vue
+    Settings.vue
   </div>
 </template>
 
